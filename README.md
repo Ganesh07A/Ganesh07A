@@ -76,7 +76,7 @@ Sahayak – An AI-powered college assistant chatbot that answers college-related
 
 ## 📫 How to Reach Me
 
-GitHub: [Ganesh07A](https://github.com/Ganesh07A)
+LinkedIn: [Ganesh Suvarnakar](https://www.linkedin.com/in/ganesh-suvarnakar-53033435a/)
 
 ## ⚡ Fun Fact
 
