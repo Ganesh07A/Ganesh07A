@@ -1,78 +1,57 @@
 ## Hi there 👋 I'm Ganesh,
 
-I'm a engineering student passionate about building practical software projects and learning modern technologies step by step.
+I'm an engineering student passionate about building practical software projects and learning modern technologies step by step.
 
 ## 🔭 Current Focus
 
-CampusBuddy – A full stack college-focused platform built using Next.js, designed to centralize and simplify campus-related information for students.
+**Smart Assessment Platform** – A secure, full-stack online examination system built with the **PERN Stack** (PostgreSQL, Express, React, Node.js).
+* **Key Features:** Teacher dashboard, Excel-based bulk question upload, and student anti-cheating modules.
 
-## 🚀 Recent Project
+## 🚀 Recent Projects
 
-Sahayak – An AI-powered college assistant chatbot that answers college-related queries using RAG-based architecture.
+* **CampusBuddy** – A full-stack college platform built using Next.js to centralize campus information.
+* **Sahayak** – An AI-powered college assistant chatbot using RAG architecture for answering queries.
 
 ## 🌱 Currently Learning
 
-- Full-stack development with Next.js
-
-- Backend APIs & authentication
-
-- AI / ML fundamentals and real-world applications
+- **Advanced Backend:** Secure authentication (JWT) and Database Management with **Prisma ORM**.
+- **System Design:** Building scalable APIs and role-based access control (RBAC).
+- **Full-Stack Development:** Integrating complex frontends with robust backend logic.
 
 ## 👯 Open to Collaborate On
 
+- Educational Technology (EdTech) solutions
 - Student-centric web applications
-
-- AI-powered tools for education
-
-- Open-source projects
+- Open-source full-stack projects
 
 ## 🛠️ Tech Stack
 
-## 💻 Frontend
+### 💻 Frontend
+- **React.js** – Component-based UI development
+- **Next.js** – Framework for production-grade web apps
+- **Tailwind CSS** – Utility-first CSS for responsive design
+- **HTML5 & CSS3** – Core web technologies
 
-- Next.js – React framework for fast, SEO-friendly web apps
+### ⚙️ Backend
+- **Node.js** – Runtime for scalable network applications
+- **Express.js** – REST API framework
+- **Python** – AI/ML scripting and automation
 
-- React.js – Component-based UI development
+### 🗄️ Database & Tools
+- **PostgreSQL** – Primary relational database
+- **Prisma ORM** – Type-safe database client
+- **Supabase** – Backend-as-a-Service and Auth
+- **Postman** – API testing and documentation
 
-- Tailwind CSS – Utility-first CSS for clean and responsive design
+### 🤖 AI / Machine Learning
+- **RAG (Retrieval Augmented Generation)** – Context-aware AI responses
+- **Machine Learning Fundamentals** – Classification & Regression models
+- **FAISS & Embeddings** – Vector search implementation
 
-- HTML5 & CSS3 – Core web technologies
-
-## ⚙️ Backend
-
-- Node.js – Backend runtime for APIs and server logic
-
-- Python – Used for AI/ML projects and backend scripting
-
-- REST APIs – For communication between frontend and backend
-
-## 🗄️ Database & Auth
-
-- Supabase – Database, authentication, and secure backend services
-
-- PostgreSQL – Relational database used with Supabase
-
-## 🤖 AI / Machine Learning
-
-- Machine Learning Fundamentals – Classification, regression, model evaluation
-
-- RAG (Retrieval Augmented Generation) – Used in Sahayak chatbot
-
-- FAISS – Vector database for semantic search
-
-- Embeddings – Text vectorization for AI search
-
-## 🛠️ Tools & Platforms
-
-- Git & GitHub – Version control and collaboration
-
-- VS Code – Primary development environment
-
-- pnpm / npm – Package management
-
-- Postman – API testing
-
-- Canva – UI banners, posters, and presentations
+## 🛠️ Dev Tools
+- **Git & GitHub** – Version control
+- **VS Code** – Primary IDE
+- **npm / pnpm** – Package management
 
 ## 📫 How to Reach Me
 
@@ -81,18 +60,3 @@ LinkedIn: [Ganesh Suvarnakar](https://www.linkedin.com/in/ganesh-suvarnakar-5303
 ## ⚡ Fun Fact
 
 I enjoy solving real college problems by turning them into useful software solutions 🚀
-
-<!--
-**Ganesh07A/Ganesh07A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
