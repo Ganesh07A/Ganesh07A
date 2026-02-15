@@ -4,7 +4,18 @@ I'm an engineering student passionate about building practical software projects
 
 ## 🔭 Current Focus
 
-**Smart Assessment Platform** – A secure, full-stack online examination system built with the **PERN Stack** (PostgreSQL, Express, React, Node.js).
+### 🔍 DevFlow – AI Code Review Assistant
+AI-powered pull request reviewer that detects bugs, security issues, and performance problems.
+
+**Built With:** FastAPI · PostgreSQL · SQLAlchemy · Gemini API · GitHub API  
+**Features:** AI reviews · Security scanning · Code quality scoring · PR comments · Analytics dashboard  
+
+---
+
+### 🎓 Smart Assessment Platform 
+A secure, full-stack online examination system built with the **PERN Stack**.
+
+* **Built With:** FastAPI · PostgreSQL · Express . React . node  
 * **Key Features:** Teacher dashboard, Excel-based bulk question upload, and student anti-cheating modules.
 
 ## 🚀 Recent Projects
