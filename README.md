@@ -4,19 +4,37 @@ I'm an engineering student passionate about building practical software projects
 
 ## 🔭 Current Focus
 
-### 🔍 DevFlow – AI Code Review Assistant
-AI-powered pull request reviewer that detects bugs, security issues, and performance problems.
+### 🦅 GanClaw – Personal AI Buddy
+A terminal-first personal AI assistant that combines conversational AI with practical tools for coding, task management, reminders, memory, web access, email, and automation.
 
-**Built With:** FastAPI · PostgreSQL · SQLAlchemy · Gemini API · GitHub API  
-**Features:** AI reviews · Security scanning · Code quality scoring · PR comments · Analytics dashboard  
+**Built With:** TypeScript · Node.js · Vercel AI SDK · OpenRouter · Commander · Clack · Zod · Telegraf
+
+**Features:**
+- 💬 Natural conversational chat
+- 🤖 Autonomous multi-step agent execution
+- 📋 Task and todo management
+- ⏰ Reminders and scheduled tasks
+- 🧠 Persistent memory across sessions
+- 🌐 Web search, URL fetching, and page crawling
+- 📧 Email integration with SMTP/IMAP
+- 💻 Codebase analysis and coding assistance
+- 🎨 Interactive terminal UI
+- 📱 Optional Telegram integration
 
 ---
 
-### 🎓 Smart Assessment Platform 
-A secure, full-stack online examination system built with the **PERN Stack**.
+### 🧠 MLPrep – Machine Learning Data Preparation Toolkit
+A Python-based toolkit focused on simplifying the data preparation stage of machine learning workflows by providing reusable utilities for dataset inspection, validation, and preprocessing.
 
-* **Built With:** FastAPI · PostgreSQL · Express . React . node  
-* **Key Features:** Teacher dashboard, Excel-based bulk question upload, and student anti-cheating modules.
+**Built With:** Python · Pandas · Typer · Scikit-learn
+
+**Features:**
+- 📊 Dataset profiling and inspection
+- ✅ Input and dataset validation
+- 🧹 Missing-value handling
+- 🔤 Categorical data encoding
+- ⚙️ Reusable preprocessing components
+- 💻 CLI-based workflow for ML data preparation
 
 ## 🚀 Recent Projects
 
@@ -25,15 +43,18 @@ A secure, full-stack online examination system built with the **PERN Stack**.
 
 ## 🌱 Currently Learning
 
-- **Advanced Backend:** Secure authentication (JWT) and Database Management with **Prisma ORM**.
+- **AI Agents:** Designing tool-using agents and multi-step AI workflows.
+- **Advanced Backend:** Secure authentication (JWT) and database management with **Prisma ORM**.
 - **System Design:** Building scalable APIs and role-based access control (RBAC).
-- **Full-Stack Development:** Integrating complex frontends with robust backend logic.
+- **Machine Learning:** Building practical ML workflows and understanding the complete data-to-model pipeline.
 
 ## 👯 Open to Collaborate On
 
 - Educational Technology (EdTech) solutions
 - Student-centric web applications
+- AI agents and intelligent developer tools
 - Open-source full-stack projects
+- Machine Learning projects
 
 ## 🛠️ Tech Stack
 
@@ -47,6 +68,7 @@ A secure, full-stack online examination system built with the **PERN Stack**.
 - **Node.js** – Runtime for scalable network applications
 - **Express.js** – REST API framework
 - **Python** – AI/ML scripting and automation
+- **FastAPI** – High-performance Python APIs
 
 ### 🗄️ Database & Tools
 - **PostgreSQL** – Primary relational database
@@ -55,14 +77,18 @@ A secure, full-stack online examination system built with the **PERN Stack**.
 - **Postman** – API testing and documentation
 
 ### 🤖 AI / Machine Learning
+- **AI Agents & Tool Calling** – Building autonomous AI workflows
+- **LLM Applications** – Integrating language models into practical systems
 - **RAG (Retrieval Augmented Generation)** – Context-aware AI responses
 - **Machine Learning Fundamentals** – Classification & Regression models
+- **Pandas & Scikit-learn** – Data processing and ML workflows
 - **FAISS & Embeddings** – Vector search implementation
 
 ## 🛠️ Dev Tools
 - **Git & GitHub** – Version control
 - **VS Code** – Primary IDE
 - **npm / pnpm** – Package management
+- **CLI Development** – Building terminal-first developer tools
 
 ## 📫 How to Reach Me
 
